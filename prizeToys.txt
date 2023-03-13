@@ -1,0 +1,6 @@
+Toy [id=2, name=Бибика, quanty=15, weight=50]
+Toy [id=1, name=Кукла Маша, quanty=5, weight=20]
+Toy [id=3, name=Lego, quanty=10, weight=10]
+Toy [id=1, name=Кукла Маша, quanty=5, weight=20]
+Toy [id=2, name=Бибика, quanty=15, weight=10]
+Toy [id=3, name=Lego, quanty=10, weight=10]
